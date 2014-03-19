@@ -1,4 +1,0 @@
-pintos
-======
-
-The devil.
